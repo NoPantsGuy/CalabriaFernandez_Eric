@@ -8,7 +8,7 @@ package calabriafernandez_eric;
  *
  * @author alumno
  */
-public class CalabriaFernandez_Eric {
+public class eric_feature1 {
 
     /**
      * @param args the command line arguments
